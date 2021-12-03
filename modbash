@@ -128,7 +128,7 @@ fi
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'
-
+alias pwd='Sorry Dave. Cannot do that either. Go to your website and it will make sense'
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
